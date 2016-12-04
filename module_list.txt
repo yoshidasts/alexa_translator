@@ -1,0 +1,11 @@
+aws-sdk
+crypto-browserify
+ieee754
+isarray
+jmespath
+lodash
+punycode
+sax
+uuid
+xml2js
+xmlbuilder
